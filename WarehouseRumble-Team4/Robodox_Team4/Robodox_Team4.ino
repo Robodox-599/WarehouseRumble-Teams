@@ -1,3 +1,5 @@
+//Brennon is cool
+
 #include <Encoder.h>
 #include <PS2X_lib.h>
 #include "SPDMotor.h"
@@ -120,4 +122,4 @@ void loop() {
   }
 
   delay(20);
-}
+} 
